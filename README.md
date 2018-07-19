@@ -7,7 +7,7 @@ List of libraries used
 3. scipy
 4. seaborn
 
-If running on Jupyter notebook install the above packages using pip through Anaconda Navigator if they are not already installed
+If running on Jupyter notebook install the above packages using pip through Anaconda Navigator, if they are not already installed
 ```
 $ pip install seaborn
 $ pip install pandas
