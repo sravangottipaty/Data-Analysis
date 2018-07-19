@@ -2,10 +2,10 @@
 Exploratory data analysis is done on the data that is generated from A/B test on the cancellation page of subscription service.
 ### Required libraries
 List of libraries used
--matplotlib
--pandas
--scipy
--seaborn
+1. matplotlib
+2. pandas
+3. scipy
+4. seaborn
 
 If running on Jupyter notebook install the above packages using pip through Anaconda Navigator if they are not already installed
 ```
