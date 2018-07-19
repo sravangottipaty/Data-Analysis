@@ -1,11 +1,18 @@
 # Analyzing user's data
 Exploratory data analysis is done on the data that is generated from A/B test on the cancellation page of subscription service.
 ### Required libraries
-If running on Jupyter notebook install seaborn using pip through Anaconda Navigator if seaborn is not already installed
+List of libraries used
+matplotlib
+pandas
+scipy
+seaborn
+
+If running on Jupyter notebook install the above packages using pip through Anaconda Navigator if they are not already installed
 
 `$ pip install seaborn`
+`$ pip install pandas`
+`$ pip install scipy`
 
-Rest all libraries like pandas,numpy,scipy can be imported directly using jupyter notebook.
 
 ### Version
 Jupyter notebook - 5.4.1
