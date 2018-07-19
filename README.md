@@ -1,7 +1,13 @@
-# Summary
-Exploratory data analysis is done on the data that is generated from A/B test on the cancellation page of our subscription service.
+# Analyzing user's data
+Exploratory data analysis is done on the data that is generated from A/B test on the cancellation page of subscription service.
+### Required libraries
+If running on Jupyter notebook install seaborn through Anaconda Navigator if seaborn is not already installed
+  pip install seaborn
+Rest all libraries like pandas,numpy,scipy can be imported directly using jupyter notebook.
 
-- A detail report is written in a Markdown format
-- All visualizations are generated using either seaborn or matplotlib
+### Version
+Jupyter notebook - 5.4.1
+
+
 
 
