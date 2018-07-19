@@ -1,5 +1,5 @@
 # Analyzing user's data
-Exploratory data analysis is done on the data that is generated from A/B test on the cancellation page of subscription service.
+Exploratory data analysis on the data generated from A/B testing on the cancellation page of subscription service.
 ### Required libraries
 List of libraries used
 1. matplotlib
